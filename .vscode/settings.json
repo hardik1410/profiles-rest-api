@@ -1,7 +1,8 @@
 {
-    "python.pythonPath": "C:\\Users\\hardi\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
 
     
     "python.linting.pylintEnabled": true,
     "python.languageServer": "Microsoft",
+    "python.linting.enabled": true,
 }
